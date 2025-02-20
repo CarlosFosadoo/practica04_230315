@@ -32,3 +32,6 @@ sesion vacia
 
 inicio de sesion 
 ![cap](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20113712.png)
+
+sesion borrada
+![cap}(https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20120210.png)
