@@ -21,3 +21,6 @@ realizar un ejemplo de aplicacion web basada en el TechStack deNodeJS,Express qu
 
 # AllcurrentSession
 ![Foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20111130.png)
+
+# DeleteSessions
+![foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20111653.png)
