@@ -1,29 +1,27 @@
 {
-  "name": "mx.utxj.awi4.230315.practica4",
+  "name": "mx.edu.utxj.ti.awoi4.230315",
   "version": "1.0.0",
-  "description": "Realizar un ejemplo de aplicacion web basada en el TechStack de NodeJS,Express que permite controlar las Sesiones",
+  "description": "Realizar un ejemplo de aplicación web basada en el TechStack de NodeJS, Express que permita controlar las Sesiones y que registre los siguientes datos en las variables de sesión:",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node app.js"
   },
-  "keywords": [
-    "express",
-    "session"
-  ],
-  "author": "Carlos Fosado",
+  "author": "Carlos Isaac Fosado",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.9"
-  },
   "dependencies": {
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "express-session": "^1.18.1",
-    "macaddress": "^0.5.3",
     "moment-timezone": "^0.5.46",
+    "mongoose": "^8.10.0",
     "uuid": "^11.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }
