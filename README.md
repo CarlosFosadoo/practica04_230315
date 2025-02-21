@@ -1,5 +1,5 @@
 # practica04_230315
-realizar un ejemplo de aplicacion web basada en el TechStack deNodeJS,Express que permita conectar las sesiones
+Realizar un ejemplo de aplicacion Web basada en el TechStack de NodeJS,Express que permita conectar las sesiones.
 
 # welcome es la bienvenida que aparece en la apii se mostrara un mensaje que diga bienvenido y el nombre de el que la creo es útil para pruebas, diagnósticos
 ![Foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20085045.png)
