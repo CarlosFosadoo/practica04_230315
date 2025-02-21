@@ -17,7 +17,7 @@ realizar un ejemplo de aplicacion web basada en el TechStack deNodeJS,Express qu
 ![foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-21%20084038.png)
 
 # AllSessions aqui nos mostrara todas las sesiones que estan activas o que fueron creadas
-![foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20110237.png)
+![foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-21%20084441.png)
 
 # AllcurrentSession esta nos muestra la sesion actual en la que estamos asi como su status de esta
 ![Foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20111130.png)
