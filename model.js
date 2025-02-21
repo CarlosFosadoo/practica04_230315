@@ -5,10 +5,14 @@ const SessionSchema = new mongoose.Schema({
   sessionId: { type: String, required: true, unique: true },
   email: { type: String, required: true },
   nickname: { type: String, required: true },
-  clientIP: { type: String, required: true },
-  clientMAC: { type: String, required: true },
-  serverIP: { type: String, required: true },
-  serverMAC: { type: String, required: true },
+  clientData:{
+    clientIP: { type: String, required: true },
+    clientMAC: { type: String, required: true },
+  },
+  serverData: {
+    serverIP: { type: String, required: true },
+    serverMAC: { type: String, required: true },
+  },
   createdAt: { type: Date, default: Date.now },
   lastAccessed: { type: Date, default: Date.now },
   status: {

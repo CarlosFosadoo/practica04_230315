@@ -67,12 +67,16 @@ const formatDate = (date) =>
 // manteniendo los campos sensibles en su forma encriptada (RSA).
 const transformSession = (session) => ({
   sessionId: session.sessionId,
-  email: session.email,         // Se muestra encriptado (RSA)
+  email: session.email,         
   nickname: session.nickname,
-  clientIP: session.clientIP,   // Se muestra encriptado (RSA)
-  clientMAC: session.clientMAC, // Se muestra encriptado (RSA)
-  serverIP: session.serverIP,
-  serverMAC: session.serverMAC,
+  clientData: {
+    clientIP: session.clientData?.clientIP,   
+    clientMAC: session.clientData?.clientMAC, 
+  },
+  serverData: {
+    serverIP: session.serverData?.serverIP,
+    serverMAC: session.serverData?.serverMAC,
+  },
   createdAt: formatDate(session.createdAt),
   lastAccessed: formatDate(session.lastAccessed),
   status: session.status,
@@ -107,10 +111,14 @@ export const login = async (req, res) => {
     sessionId,
     email: encryptedEmail,
     nickname,
-    clientIP: encryptedClientIP,
-    clientMAC: encryptedClientMAC,
-    serverIP: serverInfo.ip,
-    serverMAC: serverInfo.mac,
+    clientData:{
+      clientIP: encryptedClientIP,
+      clientMAC: encryptedClientMAC,
+    },
+    serverData:{
+      serverIP: serverInfo.ip,
+      serverMAC: serverInfo.mac,
+    },
     createdAt: now,
     lastAccessed: now,
     status: "Activa",
