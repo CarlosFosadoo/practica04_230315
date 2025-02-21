@@ -14,7 +14,7 @@ realizar un ejemplo de aplicacion web basada en el TechStack deNodeJS,Express qu
 ![Foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-21%20083549.png)
 
 # Logout esta nos muestra cuando se cierra la sesion del usuario
-![foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20105809.png)
+![foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-21%20084038.png)
 
 # AllSessions aqui nos mostrara todas las sesiones que estan activas o que fueron creadas
 ![foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20110237.png)
