@@ -11,7 +11,7 @@ realizar un ejemplo de aplicacion web basada en el TechStack deNodeJS,Express qu
 ![Foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-21%20082452.png)
 
 # Update esto nos servira para actualizar nuestra sesion una ves que esta se llegue a salir nos permitira recargarla para que esta se actualize
-![Foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20105328.png)
+![Foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-21%20083549.png)
 
 # Logout esta nos muestra cuando se cierra la sesion del usuario
 ![foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20105809.png)
