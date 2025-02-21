@@ -23,7 +23,7 @@ realizar un ejemplo de aplicacion web basada en el TechStack deNodeJS,Express qu
 ![Foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-21%20084732.png)
 
 # DeleteSessions aqui nos permite eliminar nuestra sesion que tenemos activa para que esta ya no nos aparesca
-![foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-20%20111653.png)
+![foto](https://github.com/CarlosFosadoo/practica04_230315/blob/main/Captura%20de%20pantalla%202025-02-21%20085019.png)
 
 # MongoDb
 
